@@ -48,7 +48,7 @@ body {
         grid-template-areas:
             "header"
             "content"
-            "sidebar"
-            "footer";
+            "footer"
+            "sidebar";
     }
 }
